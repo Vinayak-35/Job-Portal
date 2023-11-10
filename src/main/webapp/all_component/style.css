@@ -1,0 +1,14 @@
+bg-custom{
+    background-color: purple !important;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: blue;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background: #ffffff;
+	color: blue;
+	border-radius: 10px;
+}
